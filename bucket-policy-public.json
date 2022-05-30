@@ -2,6 +2,9 @@
     "Statement": [{"Sid": "AllowPublicRead",
     "Effect": "Allow",
     "Principal": {
+        
+        
+        
     "AWS": "*"
     },
     "Action": "s3:GetObject",
